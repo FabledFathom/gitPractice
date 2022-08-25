@@ -35,6 +35,7 @@
 }
 .body-text{
     display: flex;
+    margin: 0 auto;
     /* justify-content: center; */
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -44,3 +45,10 @@
     justify-content: center;
 }
 /* main-page */
+
+.count-cont{
+    display: flex;
+    margin: 0 auto;
+    position: fixed;
+    left: 10px;
+}
